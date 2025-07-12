@@ -1,5 +1,5 @@
 # Vladimir Kuzmin
-
+![image](./images/avatar.png)
 ---
 
 ## 📬 Contacts
